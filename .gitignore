@@ -31,4 +31,4 @@ backend/!**/src/test/**/build/
 
 ### VS Code ###
 backend/.vscode/
-client/node_modules/
+client/node_modules
